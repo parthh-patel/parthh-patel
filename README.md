@@ -4,7 +4,7 @@
   
 Welcome to my Github profile!
 
-[![Linkedin Badge](https://img.shields.io/badge/-parthh--patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthh-patel/)](https://www.linkedin.com/in/parthh-patel/)
+[![Linkedin Badge](https://img.shields.io/badge/-parthh--patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthh-patel/)](https://parthh-patel.github.io/misc/linkedin)
 [![Gmail Badge](https://img.shields.io/badge/-parth.patel@gatech.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parth.patel@gatech.edu)](mailto:parth.patel@gatech.edu)
 
 </div>
