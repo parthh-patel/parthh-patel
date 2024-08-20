@@ -2,15 +2,17 @@
 
 <div align="center">
   
-Welcome to my Github profile! I'm a data science enthusiast with an engineering background and a passion for machine learning and data analysis.
-
-[![Linkedin Badge](https://img.shields.io/badge/-parthh--patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthh-patel/)](https://parthh-patel.github.io/misc/linkedin)
-[![Gmail Badge](https://img.shields.io/badge/-parth.patel@gatech.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parth.patel@gatech.edu)](mailto:parth.patel@gatech.edu)
-
-</div>
-<div align="center">
+  Welcome to my Github profile! I'm a data science enthusiast with an engineering background and a passion for machine learning and data analysis.
   
-  [![Resume Badge](https://img.shields.io/badge/Resume-PDF-brightgreen?style=flat-square&logo=pdf&logoColor=white&link=https://parthh-patel.github.io/resume)](https://parthh-patel.github.io/resume)
+  <div align="center">
+    
+  [![Portfolio Badge](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://parthhpatel.com)
+  
+  </div>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-parthh--patel-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://parthh-patel.github.io/misc/linkedin)
+  [![Gmail Badge](https://img.shields.io/badge/-mail@parthhpatel.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mail@parthhpatel.com)
+  [![Resume Badge](https://img.shields.io/badge/Resume-PDF-brightgreen?style=flat-square&logo=pdf&logoColor=white)](https://parthhpatel.com/resume)
 
 </div>
 
