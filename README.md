@@ -2,9 +2,9 @@
 
 </div>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-parthh--patel-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://parthh-patel.github.io/misc/linkedin)
+  [![Linkedin Badge](https://img.shields.io/badge/-parthh--patel-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parthh-patel/)
   [![Gmail Badge](https://img.shields.io/badge/parth.patel@gatech.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:parth.patel@gatech.edu)
-  [![Resume Badge](https://img.shields.io/badge/Resume-PDF-brightgreen?style=flat-square&logo=pdf&logoColor=white)](https://parthhpatel.com/resume)
+  [![Resume Badge](https://img.shields.io/badge/Resume-PDF-brightgreen?style=flat-square&logo=pdf&logoColor=white)](https://parthpatel.dev/resume)
 
 </div>
 
