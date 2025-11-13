@@ -1,17 +1,9 @@
-<h2 align="center">👋 Hi, I'm Parth! </h2>
+<h2>👋 Hi, I'm Parth! </h2>
 
-<div align="center">
-  
-  Welcome to my Github profile! I'm a data science enthusiast with an engineering background and a passion for machine learning and data analysis.
-  
-  <div align="center">
-    
-  [![Portfolio Badge](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://parthhpatel.com)
-  
-  </div>
+</div>
   
   [![Linkedin Badge](https://img.shields.io/badge/-parthh--patel-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://parthh-patel.github.io/misc/linkedin)
-  [![Gmail Badge](https://img.shields.io/badge/-mail@parthhpatel.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mail@parthhpatel.com)
+  [![Gmail Badge](https://img.shields.io/badge/parth.patel@gatech.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:parth.patel@gatech.edu)
   [![Resume Badge](https://img.shields.io/badge/Resume-PDF-brightgreen?style=flat-square&logo=pdf&logoColor=white)](https://parthhpatel.com/resume)
 
 </div>
@@ -19,9 +11,11 @@
 ## Projects
 - [Predicting Diabetes Using Machine Learning Models](https://github.com/parthh-patel/Predicting-Diabetes-Using-Machine-Learning-Models-2024)
 - [Simulating a Pandemic Flu Spread in a School Classroom](https://github.com/parthh-patel/Classroom-Flu-Spread-Simulation-2024)
+- [Predicting Accident Severity and Injury Outcomes Using Chicago Traffic Data](https://github.com/parthh-patel/Predicting-Accident-Severity-and-Injury-Outcomes-Using-Chicago-Traffic-Data)
 - [Analyzing Car Pricing Dynamics: A Study of Features, Safety Metrics, and MSRP](https://github.com/parthh-patel/Analyzing-Car-Pricing-Dynamics-A-Study-of-Features-Safety-Metrics-and-MSRP-2023)
+- [Predicting Flood Damages and Property Risks in the US](https://github.com/parthh-patel/Predicting-Flood-Damages-and-Property-Risks-in-the-US)
 
-## Miscellaneous
+## Machine Learning
 - [Machine Learning I Reports](https://github.com/parthh-patel/Macine-Learning-I)
   - [Report 1 - K-Means and Spectral Clustering Algorithms](https://github.com/parthh-patel/Macine-Learning-I/blob/main/1%20-%20K-Means%20and%20Spectral%20Clustering%20Algorithms.pdf)
   - [Report 2 - PCA, Kernel Density Estimation, and Facial Recognition](https://github.com/parthh-patel/Macine-Learning-I/blob/main/2%20-%20PCA%2C%20Kernel%20Density%20Estimation%2C%20and%20Facial%20Recognition.pdf)
