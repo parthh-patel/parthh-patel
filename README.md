@@ -12,7 +12,6 @@ Featured Projects: [parthpatel.dev/projects](https://parthpatel.dev/projects)
 - [Self-Driving Car + Traffic Simulator](https://self-driving-car-traffic-sim.parthpatel.dev/) ↗
 - [Geoclarify](https://geoclarify.parthpatel.dev/) ↗
 - [Kachufool](https://kachufool.parthpatel.dev/) ↗
-
 - [Predicting Diabetes Using Machine Learning Models](https://github.com/parthh-patel/Predicting-Diabetes-Using-Machine-Learning-Models-2024)
 - [Simulating a Pandemic Flu Spread in a School Classroom](https://github.com/parthh-patel/Classroom-Flu-Spread-Simulation-2024)
 - [Predicting Accident Severity and Injury Outcomes Using Chicago Traffic Data](https://github.com/parthh-patel/Predicting-Accident-Severity-and-Injury-Outcomes-Using-Chicago-Traffic-Data)
